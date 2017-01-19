@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 27e0bbf02fdea1942823733eb9e8b6cc
+timeCreated: 1482253669
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000500000006000000070000000800000009000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0019959f094f4845e905148fdece0bdd
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 7.2309275, y: 2.982185, z: -10.099846}
+      lookAt: {x: -6.1317844, y: -1.6995636, z: 9.942609}
+      up: {x: -0.10583448, y: 0.9816318, z: 0.15873893}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Classic Rooster/cockerel
+    100002: Component#13
+    100004: //RootNode
+    100006: Lisanne
+    100008: Rooster-Ceramic-Sculpture
+    100010: Rooster-Ceramic-Sculpture#1
+    100012: Rooster-Ceramic-Sculpture[SKU_COGR1046]
+    400000: Classic Rooster/cockerel
+    400002: Component#13
+    400004: //RootNode
+    400006: Lisanne
+    400008: Rooster-Ceramic-Sculpture
+    400010: Rooster-Ceramic-Sculpture#1
+    400012: Rooster-Ceramic-Sculpture[SKU_COGR1046]
+    2300000: Component#13
+    2300002: Lisanne
+    2300004: Rooster-Ceramic-Sculpture
+    3300000: Component#13
+    3300002: Lisanne
+    3300004: Rooster-Ceramic-Sculpture
+    4300000: Mesh Lisanne
+    4300002: Mesh Rooster-Ceramic-Sculpture
+    4300004: Mesh Component#13
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
